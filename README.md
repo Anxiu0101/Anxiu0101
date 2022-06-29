@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me 👋
 
 <!--
 **Anxiu0101/Anxiu0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
