@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <img src="https://5fjqcfadjd.hk.aircode.run/juejin?uid=1535397021091038&hide_border=true" alt="Anxiu in Juejin" style="zoom:100%;" align="left"/>
+  <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1535397021091038&hide_border=true" alt="Anxiu in Juejin" style="zoom:100%;" align="left"/>
 </div>
