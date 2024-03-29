@@ -14,3 +14,7 @@ Here are some ideas to get you started:
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=anxiu0101&show_icons=true&theme=light&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anxiu0101&layout=compact&theme=light&hide=javascript,html,css,ejs,less" />
 </div>
+
+<div>
+  <img src="https://5fjqcfadjd.hk.aircode.run/juejin?uid=1535397021091038&hide_border=true" alt="Anxiu in Juejin" style="zoom:100%;" align="left"/>
+</div>
